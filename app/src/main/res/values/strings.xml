@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MachineTestTask</string>
+
+    <string-array name="continent">
+        <item>-Select Continent-</item>
+        <item>Africa</item>
+        <item>America</item>
+        <item>Asia</item>
+        <item>Atlantic</item>
+        <item>Australia</item>
+        <item>Europe</item>
+        <item>Pacific</item>
+        <item>Indian</item>
+        <item>Etc</item>
+    </string-array>
+</resources>
